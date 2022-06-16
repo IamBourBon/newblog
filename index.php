@@ -21,7 +21,7 @@
 <body onload="menuActive()">
     <div id="wrapper">
         <?php  
-            include admin/header.php";
+            include "header.php";
         ?>
         <!--/. NAV TOP  -->
         <?php  
